@@ -11,5 +11,5 @@ The official documentation is available here: http://orator-orm/docs/extensions.
 Resources
 =========
 
-* `Documentation <http://orator-orm/docs/extensions.html#cache>`_
+* `Documentation <http://orator-orm.com/docs/extensions.html#cache>`_
 * `Issue Tracker <https://github.com/sdispater/orator-cache/issues>`_
